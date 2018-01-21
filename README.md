@@ -258,6 +258,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 ### Machine Learning
 - :movie_camera: [Makine Ögrenmesi Video Blog](https://www.youtube.com/playlist?list=PLRRY18KNZTgUQx8NT_YqCVOyb-VnB79W2)
+- [Türkçe Yapay Zeka Kaynakları] (https://github.com/deeplearningturkiye/turkce-yapay-zeka-kaynaklari)
 
 
 ### Nginx
